@@ -180,6 +180,8 @@
         <!-- Latest compiled JavaScript -->
         <script src="/bookstore3/bootstrap/js/bootstrap.min.js"></script>
 
+        <!-- New comment content here -->
+
         </body>
         </html>
 
